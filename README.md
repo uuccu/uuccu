@@ -3,7 +3,7 @@
 - 🌱 I’m currently interested in Spring, JPA, and DDD.
 - 🤔 I'm currently starving at feedback for growing.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuccu&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuccu&show_icons=true&theme=transparent)
 
 
 
