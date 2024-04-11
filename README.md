@@ -3,6 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuccu&show_icons=true&theme=tokyonight)
 
+- 🌱 I’m currently interested in Spring, JPA, and DDD.
+- 🤔 I'm currently starving at feedback for growing.
+
 ## Teck Stack
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
