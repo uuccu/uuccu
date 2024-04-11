@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi My name is Seonggu Lee 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuccu&show_icons=true&theme=tokyonight)
 
+## Teck Stack
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
